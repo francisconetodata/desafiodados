@@ -95,6 +95,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina.
 2.  Os dados do tempo serão exibidos na tabela.
 3.  Para baixar um relatório, clique no botão **"Baixar Tabela como Excel"**.
 
+---
 
 # Análise Estratégica e Recomendações de Melhoria
 
