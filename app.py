@@ -11,13 +11,11 @@ load_dotenv()
 # Inicializa a aplicação Flask
 app = Flask(__name__)
 
-# Chave da API (fornecida na sua URL)
 # Chave da API (lida do arquivo .env)
 API_KEY = os.getenv("API_KEY")
 BASE_URL = 'http://api.weatherapi.com/v1/history.json'
 
 # Template HTML para a página da web
-# Inclui CSS para estilizar a tabela, o formulário e adicionar um design mais moderno.
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="pt-br">
